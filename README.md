@@ -1,2 +1,2 @@
 # box-shadow-generator
- projeto gerador de box shadow com HTML CSS Responsivo e JavaScript
+ PROJETO GERADOR DE BOX SHADOW COM HTML CSS RESPONSIVO E JAVASCRIPT
